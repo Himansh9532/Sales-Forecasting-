@@ -69,7 +69,7 @@ joblib
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/sales-forecasting-arima.git
+gh repo clone Himansh9532/Sales-Forecasting-
 cd sales-forecasting-arima
 ```
 
@@ -218,9 +218,6 @@ python app.py
 
 The Flask app will be available at `http://127.0.0.1:5000/`, where you can access the prediction API.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
 
